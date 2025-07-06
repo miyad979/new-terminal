@@ -1,0 +1,11 @@
+div{
+    background-color: cadetblue;
+    padding: 20px;
+    margin: 30px;
+    border: 10px solid blueviolet;
+    box-shadow: tomato;
+}
+li{
+    background-color: aqua;
+    font-weight: bolder;
+}
